@@ -1,1 +1,0 @@
-print(int(input('첫 번째 수 입력> ')) + int(input('두 번째 수 입력> ')))
